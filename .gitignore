@@ -1,0 +1,18 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Generated experiment outputs
+results/
